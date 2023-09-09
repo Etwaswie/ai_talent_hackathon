@@ -17,3 +17,6 @@ Two models from Hugging Face were considered:
 
 
 ## Results demonstration
+- pydeck layers for build map and plot points
+- streamlit for deploy app
+Try our result here: https://geoplatforma.streamlit.app

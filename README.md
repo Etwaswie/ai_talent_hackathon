@@ -14,11 +14,11 @@ Two models from Hugging Face were considered:
 - zero-shot-classify-SSTuning-XLMR, cause it's fast and easy to integrate;
 - multilingual-e5-large-xnli-english, cause it's powerful.
 
-
+Python scripts with the model and the results are in `model` root.
 
 ## Results demonstration
-- pydeck layers for build map and plot points
-- streamlit for deploy app
+For result demonstration were used:
+- pydeck layers for map building and points plotting;
+- streamlit for app deploying
 
-
-Try our result here: https://geoplatforma.streamlit.app
+Try our app here: https://geoplatforma.streamlit.app

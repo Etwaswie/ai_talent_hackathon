@@ -19,6 +19,6 @@ Python scripts with the model and the results are in `model` root.
 ## Results demonstration
 For result demonstration were used:
 - pydeck layers for map building and points plotting;
-- streamlit for app deploying
+- streamlit for app deploying.
 
 Try our app here: https://geoplatforma.streamlit.app
